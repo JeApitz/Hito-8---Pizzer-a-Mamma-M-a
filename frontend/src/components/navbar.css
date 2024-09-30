@@ -1,0 +1,11 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: #001f24;
+  color: whitesmoke;
+}
+
+.navbar-button {
+  display: flex;
+  gap: 3px;
+}
